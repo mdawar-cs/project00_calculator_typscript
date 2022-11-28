@@ -1,5 +1,7 @@
-# TypeScript Calculator
+# TypeScript CLI Calculator
  Simple Command Line Calculator using TypeScipt, Node.js and Inquirer.
+
+Please make sure Node and Typscript is already installed.
 
 Initailize Json Package by following command:
         `npm init -y`
