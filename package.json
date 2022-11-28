@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "bin": {
-    "dawar-calc": "bin/index.js"
+    "dawar-calc": "/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
