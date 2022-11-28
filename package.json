@@ -4,6 +4,9 @@
   "description": "Simple Command Line Calculator using TypeScipt, Node.js and Inquirer.",
   "main": "index.js",
   "type": "module",
+  "bin": {
+    "dawar-calc": "bin/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
