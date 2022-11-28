@@ -25,5 +25,5 @@ To Install chalk dependency by following command:
 To Install types Inquirer dependency by following command:
         `npm i -D @types/chalk @types/chalk-animation`
 
-To Install all packages at once define in package.json
+To Install all packages at once define in package.json:
         `npm i`
