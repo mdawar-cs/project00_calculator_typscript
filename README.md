@@ -29,3 +29,6 @@ To Install types Inquirer dependency by following command:
 
 To Install all packages at once define in package.json:
         `npm i`
+
+For only running this Calculator app:
+        `npx project00_calculator_dawar`
